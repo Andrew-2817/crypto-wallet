@@ -10,9 +10,8 @@
 Добавление/удаление активов, боковая панель для компактного отображения, модальные окна для детальной аналитики.
 # Скриншоты
 <img width="1919" height="924" alt="Снимок экрана 2025-08-08 131914" src="https://github.com/user-attachments/assets/94152565-c675-4e7b-8feb-aa105f2dacaf" />
-<img width="458" height="695" alt="Снимок экрана 2025-06-01 151538" src="https://github.com/user-attachments/assets/e6101e67-980d-4d28-b8e6-93f6aa76cce1" /><img width="584" height="310" alt="Снимок экрана 2025-06-01 145256" src="https://github.com/user-attachments/assets/6ac34c6c-238e-4871-ab32-09dafb94c9ca" />
-<img width="626" height="498" alt="Снимок экрана 2025-06-01 141800" src="https://github.com/user-attachments/assets/db564315-f618-42d6-b5e9-68d63c24e582" />
-<img width="494" height="498" alt="Снимок экрана 2025-05-31 200328" src="https://github.com/user-attachments/assets/4d94e853-274d-4839-8990-c7806b157a3d" />
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/9aff8bbe-9e9d-491f-9890-2208a44e8134" />
+
 
 
 
