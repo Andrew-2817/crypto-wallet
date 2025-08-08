@@ -1,9 +1,23 @@
-# React + Vite
+# Описание
+Этот проект представляет собой криптовалютный портфельный трекер, разработанный на React. Он позволяет пользователям отслеживать свои активы, визуализировать распределение инвестиций с помощью круговой диаграммы и анализировать динамику цен через интеграцию с Coinstats API. Интерфейс включает таблицу активов, карточки с детальной статистикой и форму для добавления новых позиций, обеспечивая удобное управление криптоинвестициями.
+# Задачи, решаемые этим проектом (криптопортфель)
+1. Учет и отслеживание активов
+Позволяет пользователям добавлять криптовалютные активы в портфель, указывая количество, цену покупки и дату
+2. Визуализация данных
+Круговая диаграмма показывает распределение активов в портфеле и помогает быстро оценить доли криптовалют.
+Таблица и карточки отображают детали по каждому активу (цена, количество, динамика).
+3. Удобство управления портфелем
+Добавление/удаление активов, боковая панель для компактного отображения, модальные окна для детальной аналитики.
+# Скриншоты
+<img width="1919" height="924" alt="Снимок экрана 2025-08-08 131914" src="https://github.com/user-attachments/assets/94152565-c675-4e7b-8feb-aa105f2dacaf" />
+<img width="458" height="695" alt="Снимок экрана 2025-06-01 151538" src="https://github.com/user-attachments/assets/e6101e67-980d-4d28-b8e6-93f6aa76cce1" />
+<img width="584" height="310" alt="Снимок экрана 2025-06-01 145256" src="https://github.com/user-attachments/assets/6ac34c6c-238e-4871-ab32-09dafb94c9ca" />
+<img width="626" height="498" alt="Снимок экрана 2025-06-01 141800" src="https://github.com/user-attachments/assets/db564315-f618-42d6-b5e9-68d63c24e582" />
+<img width="494" height="498" alt="Снимок экрана 2025-05-31 200328" src="https://github.com/user-attachments/assets/4d94e853-274d-4839-8990-c7806b157a3d" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# crypto-wallet
+
+
+
+
